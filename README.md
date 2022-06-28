@@ -321,25 +321,27 @@ Below are depictions of the runtime reports for each year, 2017 and 2018, in bot
 
 **2017 Run Time With Original Code**
 
-INSERT 2017 OG RUN TIME PIC
+![VBA_Challenge_Runtime_OGCODE_2017](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2017)
 
 **2018 Run Time With Original Code**
 
-INSERT 2018 OG RUN TIME PIC
+![VBA_Challenge_Runtime_OGCODE_2018](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2018)
 
 **2017 Run Time with Refactored Code**
 
-INSERT REFACTOR RUN TIME PIC
+![VBA_Challenge_Runtime_REFACTORED_2017](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2017)
 
 **2018 Run Time with Refactored Code**
 
-INSERT REFACTOR RUN TIME PIC
+![VBA_Challenge_Runtime_REFACTORED_2018](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2018)
 
 **Stock Performance: 2017 versus 2018**
 
 As pictured below, there is a significant change in return on investment for all stocks from 2017 to 2018. It is evident that DAQO New Energy Group’s (NYSE: DQ) ROI underwent a significant decline in one year and would not likely be a lucrative choice to invest in at this time. Alternatively, we can see Enphase Energy Inc. (NASDAQ: ENPH) continues to have a positive return indicating it may be a safe choice for the potential investors to choose. Lastly, the most profitable choice appears to be the Sunrun Inc. (NASDAQ: RUN) stock option. With its dramatic increase in only one year, it is indicative that this stock’s ROI could continue to rise. 
 
-INSERT STOCK PERFORMANCE PICS
+![VBA_Challenge_2017.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+
+![VBA_Challenge_2017.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 **Advantages and Disadvantages of Refactoring Code**
 
