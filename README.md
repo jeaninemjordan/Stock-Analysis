@@ -347,7 +347,7 @@ As pictured below, there is a significant change in return on investment for all
 
 This analysis allows the potential investors a fast, interactive, and easily understandable method of weighing their options so they can choose the most lucrative green stock option. 
 
-In software, it is necessary to refactor code to make it more adaptive, can help investigate the presence of bugs, improve speed, improve readability, and alter the design without changing the internal structure of the code. 
+In software, it is necessary to refactor code to make it more adaptive, can help investigate the presence of bugs, optimize speed, improve readability, and alter the design without changing the internal structure of the code. 
 
 While refactoring code can optimize performance, there are also possible disadvantages. New bugs within the code could be introduced during the refactoring process, and the act of refactoring code alone can be very time consuming. There is a significant amount of time spent testing before code can be refactored successfully. 
 
