@@ -321,19 +321,19 @@ Below are depictions of the runtime reports for each year, 2017 and 2018, in bot
 
 **2017 Run Time With Original Code**
 
-![VBA_Challenge_Runtime_OGCODE_2017](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2017)
+![VBA_Challenge_Runtime_OGCODE_2017.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2017.PNG)
 
 **2018 Run Time With Original Code**
 
-![VBA_Challenge_Runtime_OGCODE_2018](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2018)
+![VBA_Challenge_Runtime_OGCODE_2018.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_OGCODE_2018.PNG)
 
 **2017 Run Time with Refactored Code**
 
-![VBA_Challenge_Runtime_REFACTORED_2017](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2017)
+![VBA_Challenge_Runtime_REFACTORED_2017.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2017.PNG)
 
 **2018 Run Time with Refactored Code**
 
-![VBA_Challenge_Runtime_REFACTORED_2018](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2018)
+![VBA_Challenge_Runtime_REFACTORED_2018.PNG](https://github.com/jeaninemjordan/Stock-Analysis/blob/main/Resources/VBA_Challenge_Runtime_REFACTORED_2018.PNG)
 
 **Stock Performance: 2017 versus 2018**
 
