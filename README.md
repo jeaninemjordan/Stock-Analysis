@@ -2,7 +2,9 @@
 
 ## An analysis of 2017 and 2018 green energy stock data: refactored. 
 
-### Overview, Purpose and Background of Project
+### Submitted by: Jeanine Jordan, Class: Bootcamp: UCF-VIRT-DATA-PT-06-2022-U-B-TTH, Module 2 Challenge
+
+#### Overview, Background and Purpose
 
 This project analyzes the data for twelve different stocks to determine the most lucrative options for potential investors. The potential investors in question want to invest in green stocks and have expressed a specific interest in the DAQO New Energy Group (NYSE: DQ). An analysis was conducted to weigh DQ against other green energy stock options using collected data the investors supplied. After an initial analysis was conducted, the investors requested that the runtime of the analysis be reduced, resulting in the need to refactor the code written for this analysis.  
 
