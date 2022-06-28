@@ -348,5 +348,8 @@ This analysis allows the potential investors a fast, interactive, and easily und
 In software, it is necessary to refactor code to make it more adaptive, can help investigate the presence of bugs, improve speed, improve readability, and alter the design without changing the internal structure of the code. 
 
 While refactoring code can optimize performance, there are also possible disadvantages. New bugs within the code could be introduced during the refactoring process, and the act of refactoring code alone can be very time consuming. There is a significant amount of time spent testing before code can be refactored successfully. 
+
+**Conclusion**
+
 By refactoring the code during this project, the analysis was optimized and became more efficient. Unnecessary clutter was removed and the code itself was made easier to read. The runtime was reduced by up to 1.1960448 seconds. While this may seem like a small number, the execution time was reduced by 83%. This is a significant difference, especially as the data set increases in size. 
 
